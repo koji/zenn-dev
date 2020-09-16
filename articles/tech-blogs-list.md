@@ -1,6 +1,6 @@
 ---
 title: "チェックしておきたいTechブログ　100個くらい"
-emoji: "😺"
+emoji: "😎"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["tech", "blog"]
 published: true
