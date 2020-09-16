@@ -5,7 +5,7 @@ type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["tech", "blog"]
 published: true
 ---
-
+aaa
 海外の有名テック企業のブログリスト！
 hey
 
