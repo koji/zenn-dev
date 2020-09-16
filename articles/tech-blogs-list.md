@@ -26,6 +26,9 @@ Bitly http://word.bitly.com
 Booking.com http://blog.booking.com
 Buzzfeed https://buzzfeed.com/techblog
 
+### subB
+updated by iTerm
+
 ## C
 Cloudera https://blog.cloudera.com/
 Cloudflare https://blog.cloudflare.com/
