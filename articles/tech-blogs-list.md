@@ -15,9 +15,6 @@ Asana https://blog.asana.com/category/eng/
 Atlassian https://blog.developer.atlassian.com/
 AWS https://aws.amazon.com/blogs/aws/
 
-### subA
-test
-
 ## B
 Baidu Research http://research.baidu.com/Blog
 BBC https://medium.com/bbc-design-engineering
