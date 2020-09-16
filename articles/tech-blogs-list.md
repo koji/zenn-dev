@@ -7,7 +7,6 @@ published: true
 ---
 
 海外の有名テック企業のブログリスト！
-hello!!!
 
 ## A
 Airbnb https://medium.com/airbnb-engineering
