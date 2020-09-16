@@ -5,9 +5,8 @@ type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["tech", "blog"]
 published: true
 ---
-aaa
+
 海外の有名テック企業のブログリスト！
-hey
 
 ## A
 Airbnb https://medium.com/airbnb-engineering
@@ -24,9 +23,6 @@ Bit.dev https://blog.bitsrc.io/
 Bitly http://word.bitly.com
 Booking.com http://blog.booking.com
 Buzzfeed https://buzzfeed.com/techblog
-
-### subB
-updated by iTerm
 
 
 ## C
