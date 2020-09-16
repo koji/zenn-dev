@@ -1,0 +1,9 @@
+{
+  "name": "zenn-dev",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "zenn-cli": "^0.1.20"
+  }
+}
