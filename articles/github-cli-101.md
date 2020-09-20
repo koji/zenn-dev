@@ -175,10 +175,14 @@ $ $ gh pr merge
   Squash and merge
 ```
 
-## オマケ
+## Editor
 デフォルトだと`nano`がエディタとして設定されているので、使い慣れたエディタに(`code`/`vim`)に変更します。
 `nano`の方がしっくりくる方は変更する必要はありません。
 今回は`code`(VScode)をは見送りました、理由はVSCodeだとPRのBodyのPreviewが簡単に見られるからです。
+git同様、ファイルを閉じると変更がghの方で認識されるようです。
+
+ちなみ、過去のコミット時のコメントが全て入力されたものが、表示されます。
+
 ```zsh
 $ gh config set editor "code --wait"
 
@@ -188,3 +192,8 @@ $ gh config set editor vim
 ```
 
 ![](https://storage.googleapis.com/zenn-user-upload/kqpfb91uaflswmcdivs2pqp5ua1m)
+
+
+## Conclusion
+Beta版が出た時に「おおっ」と思って、試してはいたんですが、最初だけで使わなくなってしまいましたが、再度試してみて、やっぱり楽だなぁと思いました。  
+おそらく、`Review`以外は`gh`を使うことが増えていくような気がします。
