@@ -6,6 +6,9 @@ topics: ["tech", "github", 'cli']
 published: true
 ---
 
+1.0.0としてリリースされたghをおさらいしてみました。
+ちなみに、この記事はCLIを使って投稿しています。
+
 ## install
 ```zsh
 $ brew install gh
