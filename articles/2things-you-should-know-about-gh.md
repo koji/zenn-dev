@@ -1,5 +1,5 @@
 ---
-title: "ghについて知っておくべきこと3つの事"
+title: "ghについて知っておきたい3つの事"
 emoji: "🎉"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["tech", "github", "gh"]
