@@ -1,6 +1,6 @@
 ---
 title: "ghについて知っておくべきこと3つ"
-emoji: "😎""
+emoji: "😎"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["tech", "github", "gh"]
 published: true
