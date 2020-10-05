@@ -25,6 +25,9 @@ repo https://github.com/koji/typescript/tree/master/simple_blog_with_contentful
   - エンジニアではない人にとって、ちょっとした表示の変更が難しいことでしょうか
   - バックエンドに問題が発生した場合、問題が解決されるまで`待つ`以外の選択肢がない
 
+Contentfulについてもう少し詳しく知りたいという方はこちらをご覧になると良いかと思います。
+https://fromscratch-y.work/ja/blog/technology/other/start-contentful/
+
 
 ## Step 1 Contentfulでモデルを定義する
 Contentfulにログインして、フロントエンド(react)で表示するためのデータの型を定義します。
