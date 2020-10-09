@@ -2,7 +2,7 @@
 title: "jsライブラリ選定はレビューが載ってるopenbaseが超絶便利"
 emoji: "✨"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: [github, library, js]
+topics: [github, library, javascript, npm, yarn]
 published: false
 ---
 ![](https://storage.googleapis.com/zenn-user-upload/8ytbhrkpue1zx3z9c6ng8ifgfsy4)
