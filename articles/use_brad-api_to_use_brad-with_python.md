@@ -1,11 +1,11 @@
 ---
-slug: 'use_brad-api_with_python'
 title: "Bard-APIを使ってpythonで回答を得る方法"
 emoji: "😎"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["tech","python","Bard"],
 published: true
 ---
+
 
 ## Bard-APIとは
 Cookieの値を渡すことで、Bardに質問を投げて、その回答を得るコードを10行くらいで可能にしてくれるパッケージです。
@@ -104,7 +104,7 @@ prompt = '''
 What is a LLM?
 The answer format should be the following.
 
-```
+'''
 answer: {
 [
   id: 1,
