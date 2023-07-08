@@ -1,4 +1,5 @@
 ---
+slug: 'use_brad-api_with_python'
 title: "Bard-APIを使ってpythonで回答を得る方法"
 emoji: "😎"
 type: "tech" # tech: 技術記事 / idea: アイデア
