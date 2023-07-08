@@ -6,7 +6,6 @@ topics: ["tech","python","Bard"],
 published: true
 ---
 
-
 ## Bard-APIとは
 Cookieの値を渡すことで、Bardに質問を投げて、その回答を得るコードを10行くらいで可能にしてくれるパッケージです。
 
@@ -24,7 +23,7 @@ pip install bardapi python-dotenv
 Chrome/FirefoxでBardにアクセスします。
 https://bard.google.com/
 
-アクセスしたら、Dev Toolsを開いて、`Application`　タブを選択して、 `Storage` の下にある、`Cookies`をクリックします。
+アクセスしたら、Dev Toolsを開いて、`Application`　タブを選択して、 `Storage` の下にある、`Cookies`をクリックします。  
 すると以下のような画面が表示されるので、その中から、` _Secure-1PSID` を探して、valueをコピーします。
 
 
@@ -32,7 +31,7 @@ https://bard.google.com/
 
 
 ## evnファイルの作成
-適当にコードを保存するためのファオルダを作成して、その中に.envファイルを作ります。
+適当にコードを保存するためのファオルダを作成して、その中に.envファイルを作ります。  
 直に値をコードに書く場合はここはスキップして大丈夫です。
 
 ```shell
@@ -71,7 +70,7 @@ python app.py
 ```
 
 実行結果  
-日本語で質問すると、日本語で回答が得られます。ちなみに、英語で質問すると、回答も英語になります。
+日本語で質問すると、日本語で回答が得られます。ちなみに、英語で質問すると、回答も英語になります。  
 出力に関してはpromptの部分を変更するといろいろ変えられます。
 ```shell
 LLMとは、Large Language Modelの略です。日本語では「大規模言語モデル」と呼ばれます。これは、膨大な量のテキストデータでトレーニングされた機械学習モデルです。テキストを生成し、言語を翻訳し、さまざまな種類のクリエイティブ コンテンツを作成し、有益な方法で質問に答えることができます。
@@ -166,8 +165,8 @@ If you are interested in pursuing an LLM, I encourage you to do your research an
 I hope this helps!
 ```
 
-Bardを使ったことある方はご存じだと思いますが、Bardは出力候補をDraftという形で表示してくれます。
-そのDraftを取得することも可能です。
+Bardを使ったことある方はご存じだと思いますが、Bardは出力候補をDraftという形で表示してくれます。  
+そのDraftを取得することも可能です。  
 コード自体は最初のものとほぼ一緒で、取ってくるデータを`content` から `choices`に変更します。
 
 ```python
