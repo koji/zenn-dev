@@ -2,7 +2,7 @@
 title: "Bard-APIを使ってpythonで回答を得る方法"
 emoji: "😎"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["tech","python","Bard"],
+topics: [tech,python,Bard,blog,generativeAI],
 published: true
 ---
 
