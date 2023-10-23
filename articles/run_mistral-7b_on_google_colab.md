@@ -13,6 +13,7 @@ https://mistral.ai/news/announcing-mistral-7b/
 
 
 Google Colabで動かすにはGGUFファイルを使用します。
+なので、requirementはGoogleアカウントになります。
 
 [What is GGUF and GGML?](https://medium.com/@phillipgimmi/what-is-gguf-and-ggml-e364834d241c#:~:text=GGUF%20and%20GGML%20are%20file%20formats%20used%20for%20storing%20models,Generative%20Pre%2Dtrained%20Transformer)
 
