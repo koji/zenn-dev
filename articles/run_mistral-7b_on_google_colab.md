@@ -3,10 +3,11 @@ title: "Mistral-7BをGoogleColabで試してみた"
 emoji: "✨"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["llm", "python", "_mistral-7b"]
-published: false
+published: true
 ---
 
-この記事はGoogle Colabの無料版T4での動作を確認しています。
+この記事はGoogle Colabの無料版T4での動作を確認しています。  
+なので、requirementはGoogleアカウントになります
 
 ## Mistral-7Bとは
 https://mistral.ai/news/announcing-mistral-7b/
