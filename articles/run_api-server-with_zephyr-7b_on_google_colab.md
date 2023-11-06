@@ -3,7 +3,7 @@ title: 'zephyr-7bをGoogleColabで動かしてAPIサーバとして使う方法'
 emoji: '🤖'
 type: 'tech' # tech: 技術記事 / idea: アイデア
 topics: ['python', 'llm', 'googlecolab']
-published: false
+published: true
 ---
 
 ## これは何ですか？
