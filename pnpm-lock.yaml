@@ -6,13 +6,13 @@ settings:
 
 dependencies:
   zenn-cli:
-    specifier: ^0.1.144
-    version: 0.1.144
+    specifier: ^0.1.152
+    version: 0.1.154
 
 packages:
 
-  /zenn-cli@0.1.144:
-    resolution: {integrity: sha512-vReeYJg2ySjIUKSm5shKdi8rLmMO31Mtk7/xcTJVMSY0sLWJemTgtV8Mcpe1lIvTLKwg5SjfAa3iWjX0HIy3EA==}
+  /zenn-cli@0.1.154:
+    resolution: {integrity: sha512-s9SZst7TWiA2VS+40CWUS7pu5cl2OAIhNPyiAtqIwjDFzqB47vVsN78G8VK7VZ7ov6B4gqQrQHcgMHVqvoLN8g==}
     engines: {node: '>=14.0.0'}
     hasBin: true
     dev: false
