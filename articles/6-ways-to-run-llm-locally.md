@@ -2,8 +2,8 @@
 title: "ローカルでLLMを動かす6つの簡単な方法 + α"
 emoji: "✨"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ['LLM', 'ローカル開発', 'AI'] , 
-published: false
+topics: ['LLM', 'ローカル開発', 'AI']
+published: true
 ---
 
 # ローカルでLLMを実行する6つの簡単な方法 + α
