@@ -4,12 +4,11 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "zenn-cli": "^0.2.1"
+    "zenn-cli": "^0.4.0"
   },
-  "packageManager": "pnpm@8.15.4+sha1.c85a4305534f76d461407b59277b954bac97b5c4",
   "devDependencies": {
-    "textlint": "^14.3.0",
+    "textlint": "^14.8.4",
     "textlint-rule-preset-ja-spacing": "^2.4.3",
-    "textlint-rule-preset-ja-technical-writing": "^10.0.1"
+    "textlint-rule-preset-ja-technical-writing": "^10.0.2"
   }
 }
